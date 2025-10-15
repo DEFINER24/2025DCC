@@ -4,3 +4,8 @@ Model_data/
 
 *.jpg
 
+runs/
+
+*.pt
+
+.venv/
